@@ -5,11 +5,12 @@ Talend JSON structure Parsing and Loading
 
 This project involves the parsing of JSON files containing data about actors, directors, and movies, then loading this data into a relational database. 
 
-The primary focus is on handling JSON structures efficiently using Talend, creating appropriate database tables for storage, and maintaining relationships between movies, their writers, actors, and categories. Additionally, specific SQL queries are executed to provide insights into the data.
+The primary focus is on handling JSON structures efficiently using Talend, creating appropriate database tables for storage, and maintaining relationships between movies, their writers, actors, and categories and also cleaning the data using python. Additionally, specific SQL queries are executed to provide insights into the data.
 
 ## Objectives
 
 - Parse JSON files for actors, directors, and movies.
+- Cleaning data using Python.
 - Load parsed data into MySQL, SQL Server, or Azure DB (choose one).
 - Maintain relational integrity among movies, writers, actors, and categories.
 - Execute SQL queries to retrieve specific data insights.
@@ -28,10 +29,10 @@ The primary focus is on handling JSON structures efficiently using Talend, creat
 
 -List year wise titles.
 
-<img width="372" alt="image" src="https://github.com/pratik3336/Talend-JSON-Structure-Parsing-Project/assets/76115015/5b80c51c-d89c-4d6f-a9fe-f8f90aa4aea1">
+<img width="400" alt="image" src="https://github.com/pratik3336/Talend-JSON-Structure-Parsing-Project/assets/76115015/5b80c51c-d89c-4d6f-a9fe-f8f90aa4aea1">
 
-<img width="340" alt="image" src="https://github.com/pratik3336/Talend-JSON-Structure-Parsing-Project/assets/76115015/8dc7b3e6-814d-4593-a22a-42aa64338668">
+<img width="400" alt="image" src="https://github.com/pratik3336/Talend-JSON-Structure-Parsing-Project/assets/76115015/8dc7b3e6-814d-4593-a22a-42aa64338668">
 
-<img width="336" alt="image" src="https://github.com/pratik3336/Talend-JSON-Structure-Parsing-Project/assets/76115015/3a9f21c2-8246-4c48-82d8-c3f01f10ea6f">
+<img width="400" alt="image" src="https://github.com/pratik3336/Talend-JSON-Structure-Parsing-Project/assets/76115015/3a9f21c2-8246-4c48-82d8-c3f01f10ea6f">
 
-<img width="344" alt="image" src="https://github.com/pratik3336/Talend-JSON-Structure-Parsing-Project/assets/76115015/cc525fad-9805-4837-97f0-e6648cc36d09">
+<img width="400" alt="image" src="https://github.com/pratik3336/Talend-JSON-Structure-Parsing-Project/assets/76115015/cc525fad-9805-4837-97f0-e6648cc36d09">
